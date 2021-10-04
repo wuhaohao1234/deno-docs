@@ -1,0 +1,14 @@
+{
+  "name": "deno-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dendron-cli": "dendron-cli",
+    "build": "dendron-cli buildSite"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@dendronhq/dendron-cli": "*",
+    "@dendronhq/dendron-11ty-legacy": "*"
+  }
+}
